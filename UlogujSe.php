@@ -7,6 +7,7 @@
 </head>
 <body>
 	<div class="heder">
+		<!-- Meni -->
 			<ul>
 				<li> <a href="Pocetna.php">Početna</a></li>
 				<li class="kliknuta"><a href="">Uloguj se</a></li>
